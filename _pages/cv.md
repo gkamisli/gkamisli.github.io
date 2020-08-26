@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Bachelor of Science) in Industrial Engineering, Koç University, Istanbul (Turkey), 2015
+* B.A. (Bachelor of Arts) in Economics, Koç University, Istanbul (Turkey), 2015
+* M.Sc. in Computer Science, University of Oxford, Oxford (UK), 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2020 - current: Machine Learning Engineer
+  * CaliberAI
+  * Main projects: 
+    * Developed a Recursive Neural Network in addition to LSTMs with hierarchical attention mechanism for text classification
+    * Developed automated tests and loggers across different models using detailed unit test
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2019 - Jan. 2020: Research Scientist
+  * University of Oxford, Department of Psychiatry
+  * Duties included: Research on LSTM/GRU networks in the detection of gene-phenotype associations 
+  * Supervisor: Alejo Nevado-Holgado
+ 
+* Sept. 2018 - Dec. 2018: Research Assistant
+  * University of Oxford, Department of Psychiatry
+  * Duties included: Research on LSTM network in the detection of gene-gene interactions
+  * Supervisor: Alejo Nevado-Holgado
   
-Skills
+Coding Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Java
+* R
+* SQL, PostgreSQL
 
-Publications
+Frameworks & Libraries
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Tensorflow
+* Keras
+* PyTorch
+* NumPy
+* NLTK
+* spaCy
+* Scikit-Learn
