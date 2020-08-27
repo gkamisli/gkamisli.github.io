@@ -32,6 +32,7 @@ Work experience
   * University of Oxford, Department of Psychiatry
   * Duties included: Research on LSTM network in the detection of gene-gene interactions
   * Supervisor: Alejo Nevado-Holgado
+  * Project: Neural Networks for Gene-Gene Interaction
   
 Coding Skills
 ======
